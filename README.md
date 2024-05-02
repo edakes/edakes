@@ -1,13 +1,13 @@
-დ Hi Github Community👋
+დ Hi Github Community დ
 
 
 **edakes/edakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning phyton
-- 📫 How to reach me: edakesoglu@gmail.com
+- 🔭 I’m currently working on create a webb site...
+- 🌱 I’m currently learning phyton and javasicript.
+- 📫 How to reach me: edakesoglu@gmail.com 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
