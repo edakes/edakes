@@ -18,4 +18,5 @@ Ben bir yazılım geliştiricisiyim ve GitHub üzerindeki çalışmalarımın de
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/edakes) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@EdaKesoglu) 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=edakes&show_icons=true&theme=gradient)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/profil-adin)](https://www.linkedin.com/in/eda-kesoglu-04032b291/)
+
