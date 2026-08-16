@@ -1,6 +1,6 @@
 დ Hi Github Community დ
-# 👋 Merhaba! Ben Eda Keşoğlu
-
+# 👋 Its eda keşoğlu
+I m currently learning software development and I worked on my personal project.
 Ben bir yazılım geliştiricisiyim ve GitHub üzerindeki çalışmalarımın detaylarına buradan ulaşabilirsiniz!
 
 
